@@ -1,4 +1,4 @@
-# Hi, I'm Leon Kiss 👋
+# Hi, my name is Leon Kiss!
 
 I'm a Computer Science bachelor's student at the University of Innsbruck with a passion for **machine learning**, **high performance computing**, and **parallel computing**. My focus lies particularly in **distributed learning** techniques such as **Federated Learning** and **Split Learning**.
 
